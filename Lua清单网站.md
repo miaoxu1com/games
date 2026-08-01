@@ -6,3 +6,7 @@
 - [ManifestHub](https://github.com/SteamAutoCracks/ManifestHub/)
 - [morrenu](https://manifest.morrenus.xyz)
 - [mf](https://mf.include.ink)
+- [luatools](https://lua.tools)
+- [depotbox](https://depotbox.org)
+- [ryuu](https://generator.ryuu.lol)
+- [hubcapmanifest](https://hubcapmanifest.com)
