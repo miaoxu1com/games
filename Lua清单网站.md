@@ -12,3 +12,4 @@
 - [hubcapmanifest](https://hubcapmanifest.com)
 - [ryuu](https://generator.ryuu.lol/gamelist)
 - [manifestor](https://manifestor.cc)
+- [opela](https://www.opela.team/manifest)
