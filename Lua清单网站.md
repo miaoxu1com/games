@@ -11,4 +11,4 @@
 - [ryuu](https://generator.ryuu.lol)
 - [hubcapmanifest](https://hubcapmanifest.com)
 - [ryuu](https://generator.ryuu.lol/gamelist)
-
+- [manifestor](https://manifestor.cc)
