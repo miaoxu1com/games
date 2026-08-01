@@ -10,3 +10,5 @@
 - [depotbox](https://depotbox.org)
 - [ryuu](https://generator.ryuu.lol)
 - [hubcapmanifest](https://hubcapmanifest.com)
+- [ryuu](https://generator.ryuu.lol/gamelist)
+
